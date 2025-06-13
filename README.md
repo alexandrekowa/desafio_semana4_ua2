@@ -1,4 +1,4 @@
-# Desafio da semana 4 - Disciplina Preparação e Análise Exploratória de Dados
+# Desafio da semana 4 - Preparação e Análise Exploratória de Dados
 
 Código feito em Python no Jupyter Notebook, mostrando o primeiro desafio para recomendar trinta filmes para um usuário de acordo com o título do filme informado (nome do filme: Four Rooms (1995)).
 
